@@ -1,0 +1,6 @@
+censusgeocode==0.5.2
+geopandas==0.6.2
+geopy==2.2.0
+numpy==1.22.3
+pandas==1.4.2
+streamlit==1.9.0
